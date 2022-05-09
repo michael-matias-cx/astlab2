@@ -112,7 +112,7 @@
                 <exclusion>
                     <groupId>com.sun.jmx</groupId>
                     <artifactId>jmxri</artifactId>
-                </exclusion>
+                </exclusion> 
             </exclusions>
         </dependency>
         <dependency>
